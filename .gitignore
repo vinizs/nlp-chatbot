@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Data (Optional: if you want users to provide their own CSV)
+# data/questions.csv
